@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdvanceAndroidPrograming</string>
+    <string name="name">nombre\n</string>
+    <string name="home_serial_label">serie</string>
+    <string name="home_value_label">$</string>
+    <string name="home_date_label">fecha</string>
+    <string name="new_home">nueva casa</string>
+    <string name="show_subtitle">mostrar subtítulos</string>
+    <string name="hide_subtitle">ocultar subtítulos</string>
+    <string name="subtitle_format">%1$d artículos</string>
+
+    <string name="home_report_subject">HomeIntent Informe de inicio.</string>
+    <string name="send_report">Send home report via</string>
+    <string name="report">reporte</string>
+</resources>
